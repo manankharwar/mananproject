@@ -25,7 +25,7 @@
       • Integrated Algorand’s blockchain services in desktop and mobile applications
       • Generated unsigned transactions and added node to the blockchain using Algorand’s Sandbox & Node.js in real-time
       
-[6. UX Design Concept][UXDesign]
+[5. UX Design Concept][UXDesign]
 
       • I created a user flow website for the newly designed McMaster Design League using Adobe xD
       • Extensive prototyping and wireframing
